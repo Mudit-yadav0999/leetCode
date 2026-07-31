@@ -9,7 +9,6 @@ public:
 
         for (int i = 0; i < n - 2; i++) {
 
-            // Duplicate i ko skip karo
             if (i > 0 && nums[i] == nums[i - 1])
                 continue;
 
@@ -27,11 +26,11 @@ public:
                         nums[right]
                     });
 
-                    // Duplicate left values skip karo
+                    
                     while (left < right && nums[left] == nums[left + 1])
                         left++;
 
-                    // Duplicate right values skip karo
+    
                     while (left < right && nums[right] == nums[right - 1])
                         right--;
 
