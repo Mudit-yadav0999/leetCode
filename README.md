@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Medium/0015-3sum/) | Medium |
 | [0066-plus-one](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Easy/0066-plus-one/) | Easy |
+| [0136-single-number](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Easy/0136-single-number/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Mudit-yadav0999/leetCode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -37,4 +38,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Medium/0015-3sum/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Easy/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->
