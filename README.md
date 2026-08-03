@@ -7,6 +7,7 @@
 | [0015-3sum](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Medium/0015-3sum/) | Medium |
 | [0053-maximum-subarray](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Medium/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Easy/0066-plus-one/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Easy/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Easy/0169-majority-element/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Mudit-yadav0999/leetCode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
@@ -57,6 +58,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Medium/0053-maximum-subarray/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
