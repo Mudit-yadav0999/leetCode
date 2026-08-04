@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Medium/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Medium/0015-3sum/) | Medium |
 | [0053-maximum-subarray](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Medium/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Easy/0066-plus-one/) | Easy |
@@ -35,10 +36,12 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Medium/0011-container-with-most-water/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Medium/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Medium/0015-3sum/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
