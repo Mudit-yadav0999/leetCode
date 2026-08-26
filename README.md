@@ -11,11 +11,13 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Easy/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Easy/0169-majority-element/) | Easy |
+| [0496-next-greater-element-i](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Easy/0496-next-greater-element-i/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Mudit-yadav0999/leetCode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Easy/0169-majority-element/) | Easy |
+| [0496-next-greater-element-i](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Easy/0496-next-greater-element-i/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Mudit-yadav0999/leetCode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -89,8 +91,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Easy/0020-valid-parentheses/) | Easy |
+| [0496-next-greater-element-i](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Easy/0496-next-greater-element-i/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Easy/0020-valid-parentheses/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Easy/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
