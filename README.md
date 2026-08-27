@@ -91,6 +91,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Easy/0020-valid-parentheses/) | Easy |
+| [0155-min-stack](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Medium/0155-min-stack/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Easy/0496-next-greater-element-i/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
@@ -100,4 +101,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Easy/0496-next-greater-element-i/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Medium/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
