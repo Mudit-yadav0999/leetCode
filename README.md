@@ -24,6 +24,7 @@
 | ------- | ------- |
 | [0050-powx-n](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Medium/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Easy/0066-plus-one/) | Easy |
+| [0412-fizz-buzz](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Easy/0412-fizz-buzz/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Mudit-yadav0999/leetCode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Counting
@@ -36,6 +37,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Easy/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0412-fizz-buzz](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Easy/0412-fizz-buzz/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -105,4 +107,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Medium/0155-min-stack/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0412-fizz-buzz](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Easy/0412-fizz-buzz/) | Easy |
 <!---LeetCode Topics End-->
