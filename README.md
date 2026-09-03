@@ -12,6 +12,7 @@
 | [0136-single-number](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Easy/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Easy/0169-majority-element/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Easy/0496-next-greater-element-i/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Easy/1480-running-sum-of-1d-array/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Mudit-yadav0999/leetCode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -111,4 +112,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Easy/0412-fizz-buzz/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Easy/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->
