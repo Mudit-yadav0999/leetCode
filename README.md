@@ -38,6 +38,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Easy/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0344-reverse-string](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Easy/0344-reverse-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Easy/0412-fizz-buzz/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Greedy
@@ -51,6 +52,7 @@
 | [0011-container-with-most-water](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Medium/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Medium/0015-3sum/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0344-reverse-string](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Easy/0344-reverse-string/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
