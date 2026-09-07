@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Medium/0015-3sum/) | Medium |
 | [0053-maximum-subarray](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Medium/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Easy/0066-plus-one/) | Easy |
+| [0084-largest-rectangle-in-histogram](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Easy/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Easy/0169-majority-element/) | Easy |
@@ -96,6 +97,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Easy/0020-valid-parentheses/) | Easy |
+| [0084-largest-rectangle-in-histogram](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0155-min-stack](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Medium/0155-min-stack/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Easy/0496-next-greater-element-i/) | Easy |
 ## Bracket Sequences
@@ -105,6 +107,7 @@
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Easy/0496-next-greater-element-i/) | Easy |
 ## Design
 | Problem Name | Difficulty |
@@ -118,4 +121,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Easy/1480-running-sum-of-1d-array/) | Easy |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 <!---LeetCode Topics End-->
