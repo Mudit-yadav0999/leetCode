@@ -29,6 +29,7 @@
 | [0412-fizz-buzz](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Easy/0412-fizz-buzz/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Mudit-yadav0999/leetCode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3870-count-commas-in-range](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Easy/3870-count-commas-in-range/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
