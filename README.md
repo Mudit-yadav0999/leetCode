@@ -30,6 +30,7 @@
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Mudit-yadav0999/leetCode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Easy/3870-count-commas-in-range/) | Easy |
+| [3871-count-commas-in-range-ii](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Medium/3871-count-commas-in-range-ii/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
