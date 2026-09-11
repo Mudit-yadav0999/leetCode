@@ -16,12 +16,14 @@
 | [0503-next-greater-element-ii](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Medium/0503-next-greater-element-ii/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Easy/1480-running-sum-of-1d-array/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Mudit-yadav0999/leetCode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Easy/0169-majority-element/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Easy/0496-next-greater-element-i/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Mudit-yadav0999/leetCode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,6 +82,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Medium/0050-powx-n/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -130,4 +133,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Hard/0084-largest-rectangle-in-histogram/) | Hard |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Mudit-yadav0999/leetCode/tree/main/C++/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 <!---LeetCode Topics End-->
